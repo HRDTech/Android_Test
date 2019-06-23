@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('anko-common-0.10.4.jar'))
